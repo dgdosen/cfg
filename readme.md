@@ -33,3 +33,8 @@ config checkout
 config config status.showUntrackedFiles no
 ```
 [raw cfg-install](https://gist.githubusercontent.com/dgdosen/e77ebea754166cb7c384ec794f2ae37d/raw/eb78d7383ce2df810ec962701f8ed81131df573c/cfg-install.sh)
+
+
+## TODO:
+
+- How can I visually inspect changes to files?
